@@ -14,7 +14,7 @@
 
 ## MY OTHER BOTS
 
-### 🚀 [Moonbix](https://github.com/Nsnoman/Major) [NOT WORKING]
+### 🚀 [Major](https://github.com/Nsnoman/Major) [NOT WORKING]
 
 ## Recommendation before use
 
