@@ -1,8 +1,8 @@
-[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/SNTricksBD)
+[![Static Badge](https://img.shields.io/badge/Telegram-Channel-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_coding)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/NSNoman)
+[![Static Badge](https://img.shields.io/badge/Telegram-Chat-yes?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/hidden_codding_chat)
 
-[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/notpixel/app?startapp=f1907048693_s574036)
+[![Static Badge](https://img.shields.io/badge/Telegram-Bot%20Link-Link?style=for-the-badge&logo=Telegram&logoColor=white&logoSize=auto&color=blue)](https://t.me/notpixel/app?startapp=f355876562)
 
 # 🎨AUTO FARM FOR NOTPIXEL 🎨
 
@@ -14,11 +14,14 @@
 
 ## MY OTHER BOTS
 
-### 🚀 [Major](https://github.com/Nsnoman/Major)
+### 💩 [Boinkers](https://github.com/YarmolenkoD/boinkers)
+### 🚀 [Moonbix](https://github.com/YarmolenkoD/moonbix) [NOT WORKING]
 
 ## Recommendation before use
 
 # 🔥🔥 PYTHON version must be 3.10 🔥🔥
+
+> 🇷 🇺 README in russian available [here](README-RU.md)
 
 ## Features  
 |                      Feature                       | Supported |
@@ -77,9 +80,9 @@ Before you begin, make sure you have the following installed:
 3. Record the API_ID and API_HASH provided after registering your application in the .env file.
 
 ## Installation
-You can download the [**repository**](https://github.com/Nsnoman/NotPixel) by cloning it to your system and installing the necessary dependencies:
+You can download the [**repository**](https://github.com/YarmolenkoD/notpixel) by cloning it to your system and installing the necessary dependencies:
 ```shell
-git clone https://github.com/Nsnoman/NotPixel.git
+git clone https://github.com/YarmolenkoD/notpixel.git
 cd notpixel
 ```
 
