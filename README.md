@@ -14,7 +14,7 @@
 
 ## MY OTHER BOTS
 
-### 🚀 [Major](https://github.com/Nsnoman/Major) [NOT WORKING]
+### 🚀 [Major](https://github.com/Nsnoman/Major)
 
 ## Recommendation before use
 
